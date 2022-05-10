@@ -12,6 +12,6 @@ Link: https://github.com/Strife9936/CPS-3320-Project-2
 Description: For the first mini project out of this group, we utilize the tkinter python library to display the functions of the AirNow API. With this API we are able to display the local air quality index for the zipcode of your choice. For mini project 2, we utilize the python library pygame where the user has the ability to control a sprite character with the use of the keyboard arrow keys. For mini project 3, we utilize pythons beautiful soup library as well as the pandas library to webscrape an entire pages worth of food recipes, save to a pandas dataframe, and then finally converted into csv format. Not only could it scrape through one page, but it could also paginate through several pages and scrape the recipes from those pages as well. Once the dataframe is converted into csv format it could then be used to upload to a MySQL database and displayed via html.
 
 #Project 3 
-Link:
+Link: https://github.com/Strife9936/CPS-3320-Project-3
 
-Description:
+Description: Python script that works with the Discord Bot API to display car maintenance videos. Also uses the Selenium library to automate the task of searching nearby roadside assistance companies, scraping their contact information, storing via a Pandas dataframe, and displaing it via the discord bot.
